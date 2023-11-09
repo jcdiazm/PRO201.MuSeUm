@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PRO201.MuSeUm.ObraArte" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAAAQAAAAGAAAEAgAABAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>ObraArte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRO201.MuSeUm.Program" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAEAIAAAAAAAAAAAAAAAAACIQAAAAABQAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRO201.MuSeUm.Guia" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Guia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRO201.MuSeUm.Galeria" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAKAgAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Galeria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRO201.MuSeUm.Exposicion">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAACAAAAAAACAAAACgAAAAgAAAAAAAAEAAAABAgA=</HashCode>
+      <FileName>Exposicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRO201.MuSeUm.Empleado" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAAACEAAAAgAAAAAAAAAQCAAAEAgAAAgA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRO201.MuSeUm.Administrador" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
